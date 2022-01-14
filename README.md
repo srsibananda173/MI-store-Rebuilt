@@ -1,6 +1,8 @@
 # MI Store -- Rebuild
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a working Clone of MI STORE page...
+
+Hope You Enjoy !!!  :)
 
 ## Available Scripts
 
